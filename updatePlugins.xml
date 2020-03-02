@@ -1,3 +1,0 @@
-<plugins>
-    <plugin id="OptimizelyPlugin" url="https://raw.githubusercontent.com/thomaszurkan-optimizely/intellij-dogfood/master/OptimizelyPlugin-1.0.0.zip" version="1.0-alpha-1"/>
-</plugins>
